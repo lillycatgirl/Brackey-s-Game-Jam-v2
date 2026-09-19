@@ -1,0 +1,6 @@
+Girl: Hey Jake, uh, I've run out of tiles.. Could you spare one? I'll pay you back later, I just want to survive...
+?Player: (Give tile) (Deny)
+(Give food) Player: Here you go. 
+(Give food) Girl: Thanks~!
+(Deny) Player: Sorry, I don't have any tiles to spare. 
+~(Deny) Girl: ... 

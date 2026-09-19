@@ -1,0 +1,21 @@
+?Player: (Ask about food)(Ask about survival)(Ask about teamwork)(Ask about Escape)(Exit)
+(Ask about food) Player: I'm.. feeling a bit /hungry/. 
+(Ask about food) Player: What's the food situation like? 
+(Ask about food) Oldman: Hmm.. With food it's usually finder's keepers. We find scraps on the floor occasionally. 
+(Ask about food) Oldman: Though.. you could share around some food if you're feeling generous. 
+(Ask about survival) Player: How is survival like down here?
+(Ask about survival) Oldman: Ah.. There's a.. /creature/... down here with us. 
+(Ask about survival) Oldman: It likes to hunt us for sport. Though, it seems to take bribes in the form of these blue pool tiles. 
+(Ask about survival) Oldman: One... per person kept alive. 
+(Ask about survival) Oldman: I've also seen some people insane.. They even try to communicate with those devils. 
+(Ask about survival) Oldman: *Bah*. Try not to stray away from us. 
+(Ask about teamwork) Player: Should we work as a team? 
+(Ask about teamwork) Oldman: You're fine to stick with us.
+(Ask about teamwork) Oldman: Though.. remember to /trust no one/.
+(Ask about teamwork) Oldman: I've seen my fair share of betrayals in all my years. 
+(Ask about teamwork) Player: I'll keep that in mind. 
+(Ask about Escape) Player: How do we escape from here. 
+(Ask about Escape) Oldman: I've heard rumours about an exit, /unlocked by the very tiles the creature covets/
+(Ask about Escape) Oldman: And this place is structured like a *maze*. 
+(Ask about Escape) Oldman: Try not to get your hopes up for escaping. 
+(Exit) Player: Got it. Thanks. 

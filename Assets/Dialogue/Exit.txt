@@ -1,0 +1,14 @@
+Girl: That- That looks like the exit!
+Oldman: That- That looks like the exit!
+Girl: It seems like.. It needs 4 tiles to activate..?
+Oldman: It seems like.. It needs 4 tiles to activate..?
+Player: Seems so. 
+?Player: (Steal tiles) (Go back)
+(Steal tiles) Player: Trust no one, remember? /I will be the one to live/..
+(Steal tiles) Oldman: *Ugh*. How- could you?
+(Steal tiles) Girl: How *dare* you..!?
+(Go back) Player: Psst. /Let's go back and try to find more tiles/.
+~(Go back) Girl: I'm sorry.
+~(Go back) Oldman: Hey, kiddo.
+~(Go back) Oldman: I told you trust no one. 
+~(Go back) Oldman: ..sorry. 

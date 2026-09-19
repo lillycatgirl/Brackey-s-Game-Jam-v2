@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Wall
+  - LegIK
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Walls
+  - Water
+  - UI
+  - Pickups
+  - 
+  - 
+  - 
+  - Reflections
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Below Water
+    uniqueID: 3183550471
+    locked: 0
+  - name: Reflections
+    uniqueID: 1092248255
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 577567959
+    locked: 0
+  - name: Reflective Objects
+    uniqueID: 368889137
+    locked: 0
+  - name: Walls
+    uniqueID: 3183844587
+    locked: 0
+  - name: Pickups
+    uniqueID: 274707435
+    locked: 0
+  - name: Player
+    uniqueID: 2706462993
+    locked: 0
+  - name: Monster
+    uniqueID: 2357888003
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Light Layer 1
+  - Light Layer 2
+  - Light Layer 3
+  - Light Layer 4
+  - Light Layer 5
+  - Light Layer 6
+  - Light Layer 7
+  m_MigratedRenderPipelines: []

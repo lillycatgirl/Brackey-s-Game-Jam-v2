@@ -1,0 +1,31 @@
+Tringle: ..Heeeey theeereee...
+?Player: (What do you want) (Why can I understand you)
+(What do you want) Player: What do you want from me.
+(What do you want) Tringle: I can... Showww.. you... exittt. 
+(What do you want) Player: And..? What would you want in return. 
+(What do you want) Tringle: The /flesh/... of the other...
+(What do you want) Player: You want me to betray... my team?
+(What do you want) Tringle: trust... /No one/...
+?(What do you want) Player: (Accept) (Decline)
+(What do you want)(Accept) Player: ..Alright. 
+(What do you want)(Decline) Player: And what if I say no. 
+(What do you want)(Decline) Tringle: I shall eat... my fill.. regardlessss. 
+(What do you want)(Decline) Player: I'll.. take my leave now. 
+(What do you want)(Decline) Tringle: You've... disapoinntedd. Me. 
+(Why can I understand you) Player: Why can I understand you!? And not the others..?
+(Why can I understand you) Tringle: You have become... morreee. /*like me*/
+?(Why can I understand you) Player: (What do you want) (I have nothing left to say)
+(Why can I understand you)(What do you want) Player: What do you want from me.
+(Why can I understand you)(What do you want) Tringle: I can... Showww.. you... exittt. 
+(Why can I understand you)(What do you want) Player: And..? What would you want in return. 
+(Why can I understand you)(What do you want) Tringle: The /flesh/... of the other...
+(Why can I understand you)(What do you want) Player: You want me to betray... my team?
+(Why can I understand you)(What do you want) Tringle: trust... /No one/...
+?(Why can I understand you)(What do you want) Player: (Accept) (Decline)
+(Why can I understand you)(What do you want)(Accept) Player: ..Alright. 
+(Why can I understand you)(What do you want)(Decline) Player: And what if I say no. 
+(Why can I understand you)(What do you want)(Decline) Tringle: I shall eat... my fill.. regardlessss. 
+(Why can I understand you)(What do you want)(Decline) Player: I'll.. take my leave now. 
+(Why can I understand you)(What do you want)(Decline) Tringle: You've... disapoinntedd. Me. 
+(Why can I understand you)(I have nothing left to say) Player: I don't wish to talk about this further.
+(Why can I understand you)(I have nothing left to say) Tringle: You've... disapoinntedd. Me. 
